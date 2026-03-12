@@ -1,0 +1,7 @@
+{
+  "name": "Anderson & Cole Legal",
+  "description": "A modern, professional law firm website with AI-powered legal receptionist for chat and voice consultations.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
